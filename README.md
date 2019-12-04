@@ -33,3 +33,9 @@ A(n) (unofficial) checklist for tracking my progress through the [Natural Number
 - - [x] Level 6: `mul_pow`
 - - [x] Level 7: `pow_pow`
 - - [x] Level 8: `add_squared`
+- [ ] Function World
+- [ ] Proposition World
+- [ ] Advanced Proposition World
+- [ ] Advanced Addition World
+- [ ] Advanced Multiplication World
+- [ ] Inequality World
