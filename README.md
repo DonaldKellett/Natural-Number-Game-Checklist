@@ -58,7 +58,7 @@ A(n) (unofficial) checklist for tracking my progress through the [Natural Number
 - - [x] Level 2: the `cases` tactic.
 - - [x] Level 3: and_trans.
 - - [x] Level 4: `iff_trans`.
-- - [ ] Level 5: `iff_trans` easter eggs.
+- - [x] Level 5: `iff_trans` easter eggs.
 - - [ ] Level 6: Or, and the `left` and `right` tactics.
 - - [ ] Level 7: `or_symm`
 - - [ ] Level 8: `and_or_distrib_left`
