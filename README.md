@@ -43,7 +43,7 @@ A(n) (unofficial) checklist for tracking my progress through the [Natural Number
 - - [x] Level 7: `(P → Q) → ((Q → F) → (P → F))`
 - - [x] Level 8: `(P → Q) → ((Q → empty) → (P → empty))`
 - - [x] Level 9: a big maze.
-- [ ] Proposition World
+- [x] Proposition World
 - - [x] Level 1: the `exact` tactic.
 - - [x] Level 2: `intro`.
 - - [x] Level 3: `have`.
@@ -52,7 +52,7 @@ A(n) (unofficial) checklist for tracking my progress through the [Natural Number
 - - [x] Level 6: `(P → (Q → R)) → ((P → Q) → (P → R))`.
 - - [x] Level 7: `(P → Q) → ((Q → R) → (P → R))`
 - - [x] Level 8 : `(P → Q) → (¬ Q → ¬ P)`
-- - [ ] Level 9: a big maze.
+- - [x] Level 9: a big maze.
 - [ ] Advanced Proposition World
 - [ ] Advanced Addition World
 - [ ] Advanced Multiplication World
