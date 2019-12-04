@@ -44,6 +44,15 @@ A(n) (unofficial) checklist for tracking my progress through the [Natural Number
 - - [x] Level 8: `(P → Q) → ((Q → empty) → (P → empty))`
 - - [x] Level 9: a big maze.
 - [ ] Proposition World
+- - [ ] Level 1: the `exact` tactic.
+- - [ ] Level 2: `intro`.
+- - [ ] Level 3: `have`.
+- - [ ] Level 4: `apply`.
+- - [ ] Level 5 : `P → (Q → P)`.
+- - [ ] Level 6: `(P → (Q → R)) → ((P → Q) → (P → R))`.
+- - [ ] Level 7: `(P → Q) → ((Q → R) → (P → R))`
+- - [ ] Level 8 : `(P → Q) → (¬ Q → ¬ P)`
+- - [ ] Level 9: a big maze.
 - [ ] Advanced Proposition World
 - [ ] Advanced Addition World
 - [ ] Advanced Multiplication World
