@@ -61,7 +61,7 @@ A(n) (unofficial) checklist for tracking my progress through the [Natural Number
 - - [x] Level 5: `iff_trans` easter eggs.
 - - [x] Level 6: Or, and the `left` and `right` tactics.
 - - [x] Level 7: `or_symm`
-- - [ ] Level 8: `and_or_distrib_left`
+- - [x] Level 8: `and_or_distrib_left`
 - - [ ] Level 9: the law of the excluded middle.
 - - [ ] Level 10: `exfalso` and proof by contradiction.
 - [ ] Advanced Addition World
