@@ -56,7 +56,7 @@ A(n) (unofficial) checklist for tracking my progress through the [Natural Number
 - [ ] Advanced Proposition World
 - - [x] Level 1: the `split` tactic.
 - - [x] Level 2: the `cases` tactic.
-- - [ ] Level 3: and_trans.
+- - [x] Level 3: and_trans.
 - - [ ] Level 4: `iff_trans`.
 - - [ ] Level 5: `iff_trans` easter eggs.
 - - [ ] Level 6: Or, and the `left` and `right` tactics.
