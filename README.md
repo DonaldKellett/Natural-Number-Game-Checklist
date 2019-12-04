@@ -1,2 +1,3 @@
 # Natural-Number-Game-Checklist
-A(n) (unofficial) checklist for tracking my progress through the Natural Number Game
+
+A(n) (unofficial) checklist for tracking my progress through the [Natural Number Game](http://wwwf.imperial.ac.uk/~buzzard/xena/natural_number_game/)
