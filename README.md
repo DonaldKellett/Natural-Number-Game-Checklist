@@ -62,7 +62,7 @@ A(n) (unofficial) checklist for tracking my progress through the [Natural Number
 - - [x] Level 6: Or, and the `left` and `right` tactics.
 - - [x] Level 7: `or_symm`
 - - [x] Level 8: `and_or_distrib_left`
-- - [ ] Level 9: the law of the excluded middle.
+- - [x] Level 9: the law of the excluded middle.
 - - [ ] Level 10: `exfalso` and proof by contradiction.
 - [ ] Advanced Addition World
 - [ ] Advanced Multiplication World
