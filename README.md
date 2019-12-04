@@ -34,7 +34,7 @@ A(n) (unofficial) checklist for tracking my progress through the [Natural Number
 - - [x] Level 7: `pow_pow`
 - - [x] Level 8: `add_squared`
 - [ ] Function World
-- - [ ] Level 1: the `exact` tactic.
+- - [x] Level 1: the `exact` tactic.
 - - [ ] Level 2: the `intro` tactic.
 - - [ ] Level 3: the `have` tactic.
 - - [ ] Level 4: the `apply` tactic.
