@@ -54,6 +54,16 @@ A(n) (unofficial) checklist for tracking my progress through the [Natural Number
 - - [x] Level 8 : `(P → Q) → (¬ Q → ¬ P)`
 - - [x] Level 9: a big maze.
 - [ ] Advanced Proposition World
+- - [ ] Level 1: the `split` tactic.
+- - [ ] Level 2: the `cases` tactic.
+- - [ ] Level 3: and_trans.
+- - [ ] Level 4: `iff_trans`.
+- - [ ] Level 5: `iff_trans` easter eggs.
+- - [ ] Level 6: Or, and the `left` and `right` tactics.
+- - [ ] Level 7: `or_symm`
+- - [ ] Level 8: `and_or_distrib_left`
+- - [ ] Level 9: the law of the excluded middle.
+- - [ ] Level 10: `exfalso` and proof by contradiction.
 - [ ] Advanced Addition World
 - [ ] Advanced Multiplication World
 - [ ] Inequality World
