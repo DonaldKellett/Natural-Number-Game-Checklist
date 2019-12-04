@@ -50,7 +50,7 @@ A(n) (unofficial) checklist for tracking my progress through the [Natural Number
 - - [x] Level 4: `apply`.
 - - [x] Level 5 : `P → (Q → P)`.
 - - [x] Level 6: `(P → (Q → R)) → ((P → Q) → (P → R))`.
-- - [ ] Level 7: `(P → Q) → ((Q → R) → (P → R))`
+- - [x] Level 7: `(P → Q) → ((Q → R) → (P → R))`
 - - [ ] Level 8 : `(P → Q) → (¬ Q → ¬ P)`
 - - [ ] Level 9: a big maze.
 - [ ] Advanced Proposition World
