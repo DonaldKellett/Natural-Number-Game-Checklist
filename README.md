@@ -55,7 +55,7 @@ A(n) (unofficial) checklist for tracking my progress through the [Natural Number
 - - [x] Level 9: a big maze.
 - [ ] Advanced Proposition World
 - - [x] Level 1: the `split` tactic.
-- - [ ] Level 2: the `cases` tactic.
+- - [x] Level 2: the `cases` tactic.
 - - [ ] Level 3: and_trans.
 - - [ ] Level 4: `iff_trans`.
 - - [ ] Level 5: `iff_trans` easter eggs.
