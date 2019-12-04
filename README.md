@@ -53,7 +53,7 @@ A(n) (unofficial) checklist for tracking my progress through the [Natural Number
 - - [x] Level 7: `(P → Q) → ((Q → R) → (P → R))`
 - - [x] Level 8 : `(P → Q) → (¬ Q → ¬ P)`
 - - [x] Level 9: a big maze.
-- [ ] Advanced Proposition World
+- [x] Advanced Proposition World
 - - [x] Level 1: the `split` tactic.
 - - [x] Level 2: the `cases` tactic.
 - - [x] Level 3: and_trans.
@@ -63,7 +63,7 @@ A(n) (unofficial) checklist for tracking my progress through the [Natural Number
 - - [x] Level 7: `or_symm`
 - - [x] Level 8: `and_or_distrib_left`
 - - [x] Level 9: the law of the excluded middle.
-- - [ ] Level 10: `exfalso` and proof by contradiction.
+- - [x] Level 10: `exfalso` and proof by contradiction.
 - [ ] Advanced Addition World
 - [ ] Advanced Multiplication World
 - [ ] Inequality World
