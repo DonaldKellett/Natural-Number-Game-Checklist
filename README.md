@@ -45,7 +45,7 @@ A(n) (unofficial) checklist for tracking my progress through the [Natural Number
 - - [x] Level 9: a big maze.
 - [ ] Proposition World
 - - [x] Level 1: the `exact` tactic.
-- - [ ] Level 2: `intro`.
+- - [x] Level 2: `intro`.
 - - [ ] Level 3: `have`.
 - - [ ] Level 4: `apply`.
 - - [ ] Level 5 : `P → (Q → P)`.
