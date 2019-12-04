@@ -24,3 +24,12 @@ A(n) (unofficial) checklist for tracking my progress through the [Natural Number
 - - [x] Level 7: `add_mul`
 - - [x] Level 8: `mul_comm`
 - - [x] Level 9: `mul_left_comm`
+- [x] Power World
+- - [x] Level 1: `zero_pow_zero`
+- - [x] Level 2: `zero_pow_succ`
+- - [x] Level 3: `pow_one`
+- - [x] Level 4: `one_pow`
+- - [x] Level 5: `pow_add`
+- - [x] Level 6: `mul_pow`
+- - [x] Level 7: `pow_pow`
+- - [x] Level 8: `add_squared`
