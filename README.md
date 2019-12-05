@@ -78,9 +78,9 @@ A(n) (unofficial) checklist for tracking my progress through the [Natural Number
 - - [x] Level 11: `add_right_eq_zero`
 - - [x] Level 12: `add_one_eq_succ`
 - - [x] Level 13: `ne_succ_self`
-- [ ] Advanced Multiplication World
+- [x] Advanced Multiplication World
 - - [x] Level 1: `mul_pos`
 - - [x] Level 2: `eq_zero_or_eq_zero_of_mul_eq_zero`
 - - [x] Level 3: `mul_eq_zero_iff`
-- - [ ] Level 4: `mul_left_cancel`
+- - [x] Level 4: `mul_left_cancel`
 - [ ] Inequality World
