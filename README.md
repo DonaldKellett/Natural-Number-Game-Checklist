@@ -84,3 +84,20 @@ A(n) (unofficial) checklist for tracking my progress through the [Natural Number
 - - [x] Level 3: `mul_eq_zero_iff`
 - - [x] Level 4: `mul_left_cancel`
 - [ ] Inequality World
+- - [ ] Level 1: the `use` tactic.
+- - [ ] Level 2: le_refl
+- - [ ] Level 3: `le_succ_of_le`
+- - [ ] Level 4: `zero_le`
+- - [ ] Level 5: `le_trans`
+- - [ ] Level 6: `le_antisymm`
+- - [ ] Level 7: `le_zero`
+- - [ ] Level 8: `succ_le_succ`
+- - [ ] Level 9: `le_total`
+- - [ ] Level 10: `le_succ_self`
+- - [ ] Level 11: `add_le_add_right`
+- - [ ] Level 12: `le_of_succ_le_succ`
+- - [ ] Level 13: `not_succ_le_self`
+- - [ ] Level 14: `add_le_add_left`
+- - [ ] Level 15: introducing <
+- - [ ] Level 16: equivalence of two definitions of <
+- - [ ] Level 17: definition of <
