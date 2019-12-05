@@ -64,7 +64,7 @@ A(n) (unofficial) checklist for tracking my progress through the [Natural Number
 - - [x] Level 8: `and_or_distrib_left`
 - - [x] Level 9: the law of the excluded middle.
 - - [x] Level 10: `exfalso` and proof by contradiction.
-- [ ] Advanced Addition World
+- [x] Advanced Addition World
 - - [x] Level 1: `succ_inj`. A function.
 - - [x] Level 2: `succ_succ_inj`.
 - - [x] Level 3: `succ_eq_succ_of_eq`.
@@ -77,6 +77,6 @@ A(n) (unofficial) checklist for tracking my progress through the [Natural Number
 - - [x] Level 10: `add_left_eq_zero`
 - - [x] Level 11: `add_right_eq_zero`
 - - [x] Level 12: `add_one_eq_succ`
-- - [ ] Level 13: `ne_succ_self`
+- - [x] Level 13: `ne_succ_self`
 - [ ] Advanced Multiplication World
 - [ ] Inequality World
