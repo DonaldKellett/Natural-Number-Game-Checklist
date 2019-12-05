@@ -67,7 +67,7 @@ A(n) (unofficial) checklist for tracking my progress through the [Natural Number
 - [ ] Advanced Addition World
 - - [x] Level 1: `succ_inj`. A function.
 - - [x] Level 2: `succ_succ_inj`.
-- - [ ] Level 3: `succ_eq_succ_of_eq`.
+- - [x] Level 3: `succ_eq_succ_of_eq`.
 - - [ ] Level 4: `eq_iff_succ_eq_succ`
 - - [ ] Level 5: `add_right_cancel`
 - - [ ] Level 6: `add_left_cancel`
