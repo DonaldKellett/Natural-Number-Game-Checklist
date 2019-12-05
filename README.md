@@ -65,7 +65,7 @@ A(n) (unofficial) checklist for tracking my progress through the [Natural Number
 - - [x] Level 9: the law of the excluded middle.
 - - [x] Level 10: `exfalso` and proof by contradiction.
 - [ ] Advanced Addition World
-- - [ ] Level 1: `succ_inj`. A function.
+- - [x] Level 1: `succ_inj`. A function.
 - - [ ] Level 2: `succ_succ_inj`.
 - - [ ] Level 3: `succ_eq_succ_of_eq`.
 - - [ ] Level 4: `eq_iff_succ_eq_succ`
