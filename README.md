@@ -71,7 +71,7 @@ A(n) (unofficial) checklist for tracking my progress through the [Natural Number
 - - [x] Level 4: `eq_iff_succ_eq_succ`
 - - [x] Level 5: `add_right_cancel`
 - - [x] Level 6: `add_left_cancel`
-- - [ ] Level 7: `add_right_cancel_iff`
+- - [x] Level 7: `add_right_cancel_iff`
 - - [ ] Level 8: `eq_zero_of_add_right_eq_self`
 - - [ ] Level 9: `succ_ne_zero`
 - - [ ] Level 10: `add_left_eq_zero`
