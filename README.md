@@ -98,6 +98,6 @@ A(n) (unofficial) checklist for tracking my progress through the [Natural Number
 - - [x] Level 12: `le_of_succ_le_succ`
 - - [x] Level 13: `not_succ_le_self`
 - - [x] Level 14: `add_le_add_left`
-- - [ ] Level 15: introducing <
+- - [x] Level 15: introducing <
 - - [ ] Level 16: equivalence of two definitions of <
 - - [ ] Level 17: definition of <
