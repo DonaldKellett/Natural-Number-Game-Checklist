@@ -83,7 +83,7 @@ A(n) (unofficial) checklist for tracking my progress through the [Natural Number
 - - [x] Level 2: `eq_zero_or_eq_zero_of_mul_eq_zero`
 - - [x] Level 3: `mul_eq_zero_iff`
 - - [x] Level 4: `mul_left_cancel`
-- [ ] Inequality World
+- [x] Inequality World
 - - [x] Level 1: the `use` tactic.
 - - [x] Level 2: le_refl
 - - [x] Level 3: `le_succ_of_le`
@@ -100,4 +100,4 @@ A(n) (unofficial) checklist for tracking my progress through the [Natural Number
 - - [x] Level 14: `add_le_add_left`
 - - [x] Level 15: introducing <
 - - [x] Level 16: equivalence of two definitions of <
-- - [ ] Level 17: definition of <
+- - [x] Level 17: definition of <
