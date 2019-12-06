@@ -85,7 +85,7 @@ A(n) (unofficial) checklist for tracking my progress through the [Natural Number
 - - [x] Level 4: `mul_left_cancel`
 - [ ] Inequality World
 - - [x] Level 1: the `use` tactic.
-- - [ ] Level 2: le_refl
+- - [x] Level 2: le_refl
 - - [ ] Level 3: `le_succ_of_le`
 - - [ ] Level 4: `zero_le`
 - - [ ] Level 5: `le_trans`
