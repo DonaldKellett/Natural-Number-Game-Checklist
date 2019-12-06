@@ -92,7 +92,7 @@ A(n) (unofficial) checklist for tracking my progress through the [Natural Number
 - - [x] Level 6: `le_antisymm`
 - - [x] Level 7: `le_zero`
 - - [x] Level 8: `succ_le_succ`
-- - [ ] Level 9: `le_total`
+- - [x] Level 9: `le_total`
 - - [ ] Level 10: `le_succ_self`
 - - [ ] Level 11: `add_le_add_right`
 - - [ ] Level 12: `le_of_succ_le_succ`
